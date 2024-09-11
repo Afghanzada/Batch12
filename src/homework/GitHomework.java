@@ -16,5 +16,8 @@ public class GitHomework {
 	public static void City(String Kabul) {
 		System.out.println(Kabul);
 	}
+	public static void greade(char A) {
+		System.out.println(A);
+	}
 
 }
