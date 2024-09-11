@@ -6,6 +6,8 @@ public class GitHomework {
 		System.out.println("BATCH 12: Git Class Lecture");
 		int age=12;
 		String name="John";
+		char gender = 'M';
+		char Gread = 'F';
 		//This is coming from github
 		
 		
