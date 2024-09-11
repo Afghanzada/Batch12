@@ -13,5 +13,8 @@ public class GitHomework {
 		System.out.println(a+b);
 		
 	}
+	public static void City(String Kabul) {
+		System.out.println(Kabul);
+	}
 
 }
